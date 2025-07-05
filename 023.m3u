@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",26TV
+#EXTINF:-1 group-title="-",26T
 http://200.55.244.75:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="-",A&E HD
 http://200.55.244.75:8000/play/a05i/index.m3u8
